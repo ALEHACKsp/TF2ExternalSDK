@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\SDK\EntityCache\EntityCache.cpp" />
+    <ClCompile Include="src\SDK\NetVars\NetVars.cpp" />
+    <ClCompile Include="src\Main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\SDK\EntityCache\EntityCache.h" />
+    <ClInclude Include="src\SDK\NetVars\NetVars.h" />
+    <ClInclude Include="src\SDK\Offsets\Offsets.h" />
+    <ClInclude Include="src\SDK\TF2\baseanimating.h" />
+    <ClInclude Include="src\SDK\TF2\basecombatcharacter.h" />
+    <ClInclude Include="src\SDK\TF2\basecombatweapon.h" />
+    <ClInclude Include="src\SDK\TF2\baseentity.h" />
+    <ClInclude Include="src\SDK\TF2\baseflex.h" />
+    <ClInclude Include="src\SDK\TF2\basehandle.h" />
+    <ClInclude Include="src\SDK\TF2\baseplayer.h" />
+    <ClInclude Include="src\SDK\TF2\baseprojectile.h" />
+    <ClInclude Include="src\SDK\TF2\cdll_int.h" />
+    <ClInclude Include="src\SDK\TF2\const.h" />
+    <ClInclude Include="src\SDK\TF2\globalvars_base.h" />
+    <ClInclude Include="src\SDK\TF2\IClientEntityList.h" />
+    <ClInclude Include="src\SDK\TF2\tf_player.h" />
+    <ClInclude Include="src\SDK\TF2\weaponbase.h" />
+    <ClInclude Include="src\SDK\SDK.h" />
+    <ClInclude Include="src\Utils\Math\Math.h" />
+    <ClInclude Include="src\Utils\Memory\Memory.h" />
+    <ClInclude Include="src\Utils\Vector\Vector.h" />
+    <ClInclude Include="src\Utils\Utils.h" />
+  </ItemGroup>
+</Project>
