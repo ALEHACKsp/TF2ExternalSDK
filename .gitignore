@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+TF2ExternalSDK/.vs/TF2ExternalSDK/v17/.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+*.pdb
+*.recipe
+*.iobj
+*.ipdb
+*.log
+*.tlog
